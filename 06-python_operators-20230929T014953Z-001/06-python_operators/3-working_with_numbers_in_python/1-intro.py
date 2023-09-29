@@ -1,0 +1,1 @@
+# Nesse módulo vou estudar outras operações em números. Arrendondamento, conversão de string em números, entre outros.
