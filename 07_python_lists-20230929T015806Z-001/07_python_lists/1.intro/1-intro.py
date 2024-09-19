@@ -1,1 +1,0 @@
-# neste módulo irei estudar sobre identificação, push, criação, acessar ítens e efetuar push de ítens de lista. 
